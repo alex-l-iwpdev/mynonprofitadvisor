@@ -1,0 +1,13 @@
+/vendor/
+/.DS_Store
+/.distignore
+/.editorconfig
+/.eslintrc.json
+/.phpcs.cache
+/Thumbs.db
+/WordPress.xml
+/auth.json
+/composer.lock
+/phpcs.xml
+/.idea
+/node_modules
